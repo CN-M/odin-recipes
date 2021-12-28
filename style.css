@@ -6,7 +6,21 @@
     font-weight: 900;
 }
 
-.banana-bread{
+.banana-bread,
+.doughnut,
+.cheesecake {
     height: auto;
     width: 200px;
+}
+
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    color: whitesmoke;
+    background-color: yellowgreen;
+}
+
+.description {
+    background-color: burlywood;
+    color: white;
 }

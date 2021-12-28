@@ -1,0 +1,12 @@
+.home {
+    color: blue;
+    background-color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+.banana-bread{
+    height: auto;
+    width: 200px;
+}
